@@ -1,7 +1,0 @@
-name: Northburg Ascension AI Tournament
-author: GMan33
-version: 1.0.0
-dependencies:
-  framework: ">=3.0.1"
-  frontend: ">=1.0.2"
-  aiSwapper: ^1.1.0
